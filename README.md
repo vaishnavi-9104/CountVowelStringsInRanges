@@ -1,1 +1,0 @@
-# CountVowelStringsInRanges
